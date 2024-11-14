@@ -1,0 +1,25 @@
+body{
+    background-image: url(abstratc.gif)
+}
+.new{
+    color:white;
+    font-size: xxx-large;
+}
+.hut{
+    display: flex;
+    justify-content: space-around;
+}
+.h1{
+    margin-right: 500px ;
+}
+.b2{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+}
+.foot{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(134, 128, 128, 0.379);
+    
+}
